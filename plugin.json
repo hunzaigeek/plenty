@@ -1,0 +1,9 @@
+{
+	"name":"Vehicles",
+	"description":"Vehicles information",
+	"namespace":"Vehicles",
+	"author":"Muhammad Hamza",
+	"type":"template",
+	"serviceProvider":"Vehicles\\Providers\\VehiclesServiceProvider",
+	"runOnBuild":["Vehicles\\Migrations\\CreateVehiclesTable"]
+}
