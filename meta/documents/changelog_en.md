@@ -1,19 +1,9 @@
-# Release Notes for ToDoList
- 
-## v1.0.1 (2017-01-11)
- 
-### Added
-- Added files to fulfil plugin requirements for plentyMarketplace
-- Added `changelog_en.md`
-- Added `changelog_de.md`
-- Added `user_guide_en.md`
-- Added `user_guide_de.md`
-- Added icons and images in the **meta** folder
+# Release Notes for Google Maps Widget
 
-### Changed
-- Changed `plugin.json` to comply with plugin requirements for plentyMarketplace
- 
-## v1.0.0 (2017-01-06)
- 
-### Added
-- Added initial plugin files
+## v1.0.0 (2018-10-05)
+
+### Features
+- Enables the integration of Google Maps via the Shop Builder.
+
+### Documentation
+- For a detailed guide on developing widgets and the structure of the Google Maps widget, pelase refer to the [plentymarkets developers](https://developers.plentymarkets.com/tutorials/my-first-shop-builder-widget) documentation.

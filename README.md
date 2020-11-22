@@ -1,22 +1,20 @@
 ![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
 
-# To Do List plugin
+# Google Maps Widget
 
-This is the **To Do List** plugin developed by plentymarkets.
+This is the **Google Maps Widget** plugin for the Shop Builder developed by plentymarkets.
 
 ## Requirements
 
-This is a plugin for [plentymarkets 7](https://www.plentymarkets.com). No other plugins are required for running the plugin.
+This is a plugin for [plentymarkets 7](https://www.plentymarkets.com). The [IO](https://github.com/plentymarkets/plugin-io) plugin is required to run the plentymarkets **Google Maps Widget** plugin.
 
 ## Installing
 
-For detailed information about plugin provisioning refer to [plentymarkets developers](https://developers.plentymarkets.com/dev-doc/basics#plugin-provisioning).
+For detailed information about widget deployment refer to the [plentymarkets developers](https://developers.plentymarkets.com/dev-doc/basics) documentation.
 
-## Plugin documentation
+## Documentation
 
-- Learn how to create your [first plentymarkets plugin](https://developers.plentymarkets.com/tutorials/helloworld)
-- Overview of plentymarkets [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
-- The plentymarkets [REST API](https://developers.plentymarkets.com/rest-doc/introduction)
+For a detailed documentation of ShopBuilder widgets and the Google Maps widget, please refer to the [plentymarkets developers widget](https://developers.plentymarkets.com/tutorials/my-first-shop-builder-widget) documentation.
 
 ## Join our community
 
@@ -24,8 +22,8 @@ Sign up today and become a member of our [forum](https://forum.plentymarkets.com
 
 ## Versioning
 
-Visit our forum and find the latest news and updates in our [Changelog](https://forum.plentymarkets.com/c/changelog?order=created).
+Find information about the latest updates in our [Changelog](/meta/documents/changelog_en.md).
 
 ## License
 
-This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [LICENSE.md](/LICENSE.md) file for details.
+This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [LICENSE](/LICENSE) file for details.
